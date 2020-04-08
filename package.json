@@ -1,0 +1,17 @@
+{
+  "name": "10-greatbay",
+  "version": "1.0.0",
+  "description": "**Instructions**",
+  "main": "j.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "promisify": "0.0.3",
+    "util": "^0.12.2"
+  }
+}
